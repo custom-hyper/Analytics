@@ -1,4 +1,4 @@
-# analytics
+# Analytics
 
 
 ## Projects
