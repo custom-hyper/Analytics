@@ -1,7 +1,5 @@
-# Analytics
+# Personal Analytics Projects
 
-
-## Projects
 *Some links might still be private, I am slowly releasing them. 
 
 Name| Link
